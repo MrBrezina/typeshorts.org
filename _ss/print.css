@@ -1,0 +1,23 @@
+﻿/*
+	Obecna pravidla pro tisk.
+*/
+
+a {
+	color:		black;
+	text-decoration:none;
+}
+
+a:after {
+	
+	content:	" [" attr(href) "]";
+}
+
+h1 a:after, a[href*="mailto"]:after {
+
+	content:	"";
+}
+
+.noprint {
+
+	display:	none;
+}

@@ -1,0 +1,51 @@
+/* used on Wufoo */
+
+body, html, .wufoo {
+	margin: 0;
+	padding: 0;
+	background: #fff;
+	color: #000;
+	font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, sans-serif;
+	font-size: 13px;
+	line-height: 23px;
+}
+
+.wufoo {
+	border-top: 3px solid rgb(43,129,174);
+	border-bottom: 3px solid rgb(43,129,174);
+}
+
+form {
+	padding: 1em 0;
+}
+
+.wufoo .info { display:none }
+
+.wufoo #saveForm {
+	font-size: 13px;
+	color: white;
+	font-weight: bold;
+	border: 0;
+	padding: 5px 7px 6px;
+	background: rgb(55,149,197);
+}
+
+.wufoo #saveForm:hover {
+	background: rgb(43,129,174);
+}
+
+/* Typography */
+.wufoo .info h2{font-size:160%;font-family:inherit;color:#000}
+.wufoo .info div{font-size:95%;font-family:inherit;color:#000}
+.wufoo .section h3{font-size:110%;font-family:inherit;background:#FFFFFF;color:#000000}
+.wufoo .section div{font-size:85%;font-family:inherit;color:#000}
+.wufoo label.desc, .wufoo legend.desc{font-size:95%;font-family:inherit;color:#000}
+.wufoo li div, .wufoo li div label, .wufoo li span label{font-family:inherit;color:#000}
+.wufoo input.text, .wufoo textarea.textarea, .wufoo select.select, .wufoo label.choice{font-size:100%;font-family:inherit;color:#333333}
+.wufoo label.choice{color:#000}
+
+h3 {
+	font-size: 120%;
+	margin: 0;
+	line-height: 28px;
+}
