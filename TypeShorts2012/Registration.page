@@ -1,0 +1,25 @@
+---
+title: Registration
+in_menu: false
+draft: true
+sort_info: 5
+---
+
+## Registration ##
+
+Please, fill in the form below to get registered. You will receive confirmation email afterwards. The entry fee is calculated from your registration number and is to be paid on site. The registration is binding!
+
+<form action="http://rosettatype.createsend.com/t/r/s/ydityhl/" method="post" id="subForm">
+<div>
+<ul class="lines">
+<li><label for="name" class="text">Name:</label>  <input type="text" name="cm-name" id="name" class="text" /><br /></li>
+<li><label for="ydityhl-ydityhl" class="text">Email:</label>  <input type="text" name="cm-ydityhl-ydityhl" id="ydityhl-ydityhl" class="text" /></li>
+<li><strong>Optional:</strong><br />
+  <input type="checkbox" name="cm-ol-hksjj" id="TypeTalksmailinglist" /><label for="TypeTalksmailinglist">keep me informed about other TypeTalks projects</label></li>
+
+</ul>
+
+<input type="submit" value="Register" class ="button"/>
+</div>
+</form>
+

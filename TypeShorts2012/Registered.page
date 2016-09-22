@@ -1,0 +1,19 @@
+---
+title: Registered
+in_menu: false
+---
+
+## Registration successful ##
+
+Your registration was successful.  
+Your entry fee: **?**{:.fee} **CZK**.  
+Definitive prices will be deduced from the final list of participants.
+
+Vaše registrace se zdařila..  
+Odhad vašeho vstupného: **?**{:.fee} **Kč**.  
+Definitvní částky budou stanoveny podle konečného seznamu účastníků.
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+<script>
+$(".fee").load("counter.txt");
+</script>

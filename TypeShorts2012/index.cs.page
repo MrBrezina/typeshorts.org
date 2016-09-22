@@ -1,0 +1,66 @@
+---
+title: Popis
+in_menu: false
+draft: true
+sort_info: 1
+routed_title: TypeShorts 2012
+---
+
+## TypeShorts, 21. června 2012 v Brně ##
+
+TypeShorts jsou večerní akcí složenou z krátkých typo prezentací (trvajících přesně 321 vteřin) v pohodové atmosféře kavárny/vinného sklepa.
+
+* **Datum:** čtvrtek 21. června 2012, od 18:21
+* **Místo:** [Bistro Špargl](http://www.spargl.cz/), Gorkého 12, Brno ([mapa](http://maps.google.com/maps?q=Gork%C3%A9ho+12,+Brno-Veve%C5%99%C3%AD,+%C4%8Cesk%C3%A1+republika&hl=en&ie=UTF8&sll=37.0625,-95.677068&sspn=37.462243,78.574219&oq=gork%C3%A9ho+12&hnear=Gork%C3%A9ho+2%2F12,+602+00+Brno-Veve%C5%99%C3%AD,+Czech+Republic&t=m&z=16))
+* **Vstupné:** první registrovaný platí 1 Kč, každý další +1 Kč
+{:.lines}
+
+<!-- *Pokud se zaregistrujete nyní, zaplatíte přibližně: **? Kč**{:.fee}*
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+<script>
+$.get('counter.txt', function(data) {
+  var latest;
+  latest = parseInt(data) + 1;
+  $('.fee').html(latest).append(" Kč");
+});
+</script>
+
+*) Cena je odhadní. Definitvní částky budou stanoveny podle konečného seznamu účastníků. Platí se na místě.
+ -->
+ 
+<!--**Již je plně obsazeno!**{:.redbutton}-->
+
+<!--[Registrujte se zde (poslední volné místo)](Registration.html){:.button}-->
+
+### Fotografie ###
+
+Výběr fotek z této akce naleznete [na naší facebookové stránce](http://www.facebook.com/media/set/?set=a.399898473380051.81671.188041014565799&type=1).
+
+### Seznam přednášek ###
+
+* Marcus Sterz / AT / [FaceType](http://www.facetype.org)<br />**The true hairline and some million points** / [PDF](_downloads/MarcusSterz_The-true-hairline-and-some-million-points.pdf)
+* Jiří Toman* / CZ / [Sudetype](http://sudetype.com)<br />**Písma ze Sudet**
+* Alexandra Grünholz / PL / [profil na Behance](http://www.behance.net/grunholz)<br />**Typeface Puenta** / [PDF](_downloads/AlexandraGrunholz_How-does-typeface-grow.pdf)
+* Martin Hrdina* / CZ / [stránky studia](http://www.hrdina.tv/pages/hrdina_interface.html)<br />**Written Space** / [PDF](_downloads/MartinHrdina_Written-space.pdf)
+* Michal Tornyai* / SK / [osobní stránky](http://www.typoworker.com/)<br />**Nejnovější písma studentů VŠVU**
+* David Březina / CZ / [Rosetta Type Foundry](http://rosettatype.com)<br />**Nová písma z Rosetty a proč jsou inovativní** / [PDF](https://speakerdeck.com/u/mrbrezina/p/rosetta-type-foundry-czech)
+* Tamir Hassan / AT / [osobní stránky](http://www.tamirhassan.com)<br />**Alternatives to outline representations: Parametric fonts based on shape components** / [PDF](_downloads/TamirHassan_Alternatives-to-outline-representations.pdf)
+* Lukáš Pevný* / CZ<br />**Typoezie** / [PDF](_downloads/LukasPevny_Typoezie.pdf)
+* Michael Hochleitner / AT / [Typejockeys](http://typejockeys.com)<br />**About Henriette**
+* Vít Zemčík* / CZ / Czech TV, [osobní stránky](http://vitzemcik.com/)<br />**Typografie pro kinematografii** / [PDF](_downloads/VitZemcik_Typography-for-cinematography.pdf)
+{:.lines}
+
+Přednášky budou česky/slovensky (*) a anglicky. **Překlad nebude k dispozici.** Změna programu vyhrazena.
+
+
+<!-- ### Pravidla TypeShorts™ ###
+
+1. Přednáší se na pódiu kavárny/hospody/galerie. Můžete očekávat uvolněnou atmosféru.
+2. Každé vystoupení trvá přesně 321 vteřin.
+3. Přednášející kurátorsky neomezujeme. Je pouze na nich chtějí-li bavit či být formální, školometští či sebepropagující.
+4. Vystupující obdrží jedno pivo nebo nealkoholický ekvivalent. Po svojí přednášce.
+5. Přednášející se nemusí registrovat ani neplatí.
+6. Šortky nejsou povinné.-->
+
+<!-- Chcete mluvit? **Stále se můžete přihlásit!** Přečtěte si pravidla a pošlete nám [email](mailto:info@typetalks.org) se stručným popisem nebo názvem vaší přednášky. Potvrdíme vaše zařazení do programu. Každý je vítán! -->

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>TypeShorts – {title:}</title>
+    <meta name="description" content="TypeTalks typography, typeface design, graphic design, lectures, workshops, symposium.">  
+    <link rel="stylesheet" href="{relocatable: _ss/style.css}" media="screen">
+    <link rel="stylesheet" href="{relocatable: _ss/print.css}" media="print">
+    <link rel="shortcut icon" href="{relocatable: _images/favicon.ico}">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+    <script type="text/javascript" src="{relocatable: _ss/fadeslideshow.js}"></script>
+    <script type="text/javascript" src="{relocatable: _ss/slideshow.js}"></script>
+</head>
+<body>
+<div id="main">    
+    <div id="picture"><div id="slideshow"></div></div>
+    
+    <div id="menu">
+    <h1><em>TypeTalks</em></h1>
+    {menu: {max_levels: 2, used_nodes: files}}
+    <ul id="langbar"><li>{langbar: {lang_names: {en: English, cs: Česky, ps: Polski}, separator: "", show_own_lang: false}}</li></ul>
+    </div>
+    
+    <div id="content">
+    <webgen:block name="content" />
+    <div id="copyright">
+    <webgen:block name="copyright" chain="sidebar.html" notfound='ignore' />
+    </div>
+    </div>
+
+    <div id="sidebar">
+    <webgen:block name="sidebar" chain="sidebar.html" notfound='ignore' />
+    </div>
+	
+</div><!-- main -->
+
+<!-- Google Analytics -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7870352-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>

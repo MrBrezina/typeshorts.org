@@ -1,0 +1,55 @@
+---
+title: Overview
+in_menu: true
+sort_info: 1
+routed_title: TypeShorts 2012
+---
+
+## TypeShorts, 21 June 2012 in Brno ##
+
+TypeShorts are an evening event full of short type presentations (exactly 321 seconds long) presented in a relaxed atmosphere of a café/wine cellar.
+
+* **Date:** Thursday 21 June 2012, from ca 18:21
+* **Place:** [Bistro Špargl](http://www.spargl.cz/), Gorkého 12, Brno ([map](http://maps.google.com/maps?q=Gork%C3%A9ho+12,+Brno-Veve%C5%99%C3%AD,+%C4%8Cesk%C3%A1+republika&hl=en&ie=UTF8&sll=37.0625,-95.677068&sspn=37.462243,78.574219&oq=gork%C3%A9ho+12&hnear=Gork%C3%A9ho+2%2F12,+602+00+Brno-Veve%C5%99%C3%AD,+Czech+Republic&t=m&z=16))
+* **Entry fee:** first one registered pays 1 CZK, every other +1 CZK
+{:.lines}
+
+<!-- *If you register now, you will pay ca: **? CZK**{:.fee}*
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+<script>
+$.get('counter.txt', function(data) {
+  var latest;
+  latest = parseInt(data) + 1;
+  $('.fee').html(latest).append(" CZK");
+});
+</script>
+
+*) The price is an approximate. Definitive prices will be deduced from the final list of participants. The fee is payable on site.
+-->
+
+<!--**We are fully booked now**{:.redbutton}-->
+
+<!-- [Register here (last place left)](Registration.html){:.button} -->
+
+### Photos ###
+
+On [our facebook page](http://www.facebook.com/media/set/?set=a.399898473380051.81671.188041014565799&type=1) you can find the photos from the event.
+
+
+### The list of shorts ###
+
+* Marcus Sterz / AT / [FaceType](http://www.facetype.org)<br />**The true hairline and some million points** / [PDF](_downloads/MarcusSterz_The-true-hairline-and-some-million-points.pdf)
+* Jiří Toman* / CZ / [Sudetype](http://sudetype.com)<br />**Sudetypefaces**
+* Alexandra Grünholz / PL / [profile on Behance](http://www.behance.net/grunholz)<br />**Typeface Puenta** / [PDF](_downloads/AlexandraGrunholz_How-does-typeface-grow.pdf)
+* Martin Hrdina* / CZ / [studio website](http://www.hrdina.tv/pages/hrdina_interface.html)<br />**Written Space** / [PDF](_downloads/MartinHrdina_Written-space.pdf)
+* Michal Tornyai* / SK / [personal website](http://www.typoworker.com/)<br />**Recent typefaces by VŠVU students**
+* David Březina / CZ / [Rosetta Type Foundry](http://rosettatype.com)<br />**New typefaces from Rosetta and why they are innovative** / [PDF](https://speakerdeck.com/u/mrbrezina/p/rosetta-type-foundry-english)
+* Tamir Hassan / AT / [personal website](http://www.tamirhassan.com)<br />**Alternatives to outline representations: Parametric fonts based on shape components** / [PDF](_downloads/TamirHassan_Alternatives-to-outline-representations.pdf)
+* Lukáš Pevný* / CZ<br />**Typoetry** / [PDF](_downloads/LukasPevny_Typoezie.pdf)
+* Michael Hochleitner / AT / [Typejockeys](http://typejockeys.com)<br />**About Henriette**
+* Vít Zemčík* / CZ / Czech TV, [personal website](http://vitzemcik.com/)<br />**Typography for cinematography** / [PDF](_downloads/VitZemcik_Typography-for-cinematography.pdf)
+{:.lines}
+
+The talks will be given in Czech/Slovak (*) or English. **There will not be any translation provided.** The programme is subject to change.
+

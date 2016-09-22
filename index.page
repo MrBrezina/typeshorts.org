@@ -1,0 +1,24 @@
+---
+title: Intro
+in_menu: false
+sort_info: 1
+---
+
+## Welcome ##
+
+TypeTalks is a collaborative activity meant to raise the awareness of the power of typeface design and typography among both graphic design professionals and students.
+
+### Subscribe to our mailing list ###
+
+Fill in the form below to stay informed about our events. We send emails very sporadically.
+
+<form action="http://typetalks.createsend.com/t/r/s/hksjj/" method="post" id="subForm">
+
+<ul class="lines">
+<li><label for="name" class="text">Name:</label>  <input type="text" name="cm-name" id="name" class="text" /><br /></li>
+<li><label for="hksjj-hksjj" class="text">Email:</label>  <input type="text" name="cm-hksjj-hksjj" id="hksjj-hksjj" class="text" /></li>
+</ul>
+
+<input type="submit" value="Subscribe" class="button" />
+
+</form>

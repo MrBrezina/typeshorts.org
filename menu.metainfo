@@ -1,0 +1,16 @@
+--- name:paths
+
+
+TypeShorts2011:
+  in_menu: true
+  sort_info: 12
+
+TypeShorts2012:
+  in_menu: true
+  sort_info: 11
+
+TypeShorts2013:
+  in_menu: true
+  sort_info: 10
+ 
+--- name:alcn

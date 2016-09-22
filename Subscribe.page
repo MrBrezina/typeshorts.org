@@ -1,0 +1,21 @@
+---
+title: Subscribe
+in_menu: true
+sort_info: 22
+---
+
+## Subscribe to TypeTalks/TypeShorts mailing list ##
+
+Fill in the form below to stay informed about our events. We send emails very sporadically.
+
+<form action="http://rosettatype.createsend.com/t/r/s/jhhjirh/" method="post" id="subForm">
+
+<ul class="lines">
+<li><label for="name" class="text">Name:</label>  <input type="text" name="cm-name" id="name" class="text" /><br /></li>
+<li><label for="jhhjirh-jhhjirh" class="text">Email:</label>  <input type="text"  name="cm-jhhjirh-jhhjirh" id="jhhjirh-jhhjirh" class="text" /></li>
+<li><input type="checkbox" name="cm-ol-qjdird" id="Rosettamailinglist" /><label for="Rosettamailinglist">Subscribe to [Rosetta](http://rosettatype.com) mailing list as well (optional)</label></li>
+</ul>
+
+<input type="submit" value="Subscribe" class="button" />
+
+</form>
