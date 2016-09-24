@@ -7,7 +7,7 @@
 //Oct 6th, 09' (v2.1): Adds option to randomize display order of images, via new option displaymode.randomize
 
 var fadeSlideShow_descpanel={
-	controls: [['_images/slideshow_x.png',7,7], ['_images/slideshow_restore.png',10,11], ['_images/slideshow_loading.gif',54,55]], //full URL and dimensions of close, restore, and loading images
+	controls: [['img/slideshow_x.png',7,7], ['_images/slideshow_restore.png',10,11], ['_images/slideshow_loading.gif',54,55]], //full URL and dimensions of close, restore, and loading images
 	fontStyle: 'normal 11px Verdana', //font style for text descriptions
 	slidespeed: 200 //speed of description panel animation (in millisec)
 }
