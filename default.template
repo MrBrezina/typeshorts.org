@@ -6,7 +6,7 @@
     <meta name="description" content="TypeTalks typography, typeface design, graphic design, lectures, workshops, symposium.">  
     <link rel="stylesheet" href="{relocatable: css/style.css}" media="screen">
     <link rel="stylesheet" href="{relocatable: css/print.css}" media="print">
-    <link rel="shortcut icon" href="{relocatable: _images/favicon.ico}">
+    <link rel="shortcut icon" href="{relocatable: img/favicon.ico}">
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
     <script type="text/javascript" src="{relocatable: css/fadeslideshow.js}"></script>
     <script type="text/javascript" src="{relocatable: css/slideshow.js}"></script>
